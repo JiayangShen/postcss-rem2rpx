@@ -1,4 +1,4 @@
-# postcss-remtopx
+# postcss-rem2rpx
 
 PostCSS plugin for converting rem to rpx.
 
