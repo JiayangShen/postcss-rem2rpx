@@ -1,6 +1,6 @@
 {
   "name": "postcss-rem2rpx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PostCSS plugin for converting rem to rpx.",
   "author": "JiayangShen (https://github.com/JiayangShen)",
   "keywords": [

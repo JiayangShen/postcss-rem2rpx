@@ -5,7 +5,7 @@ PostCSS plugin for converting rem to rpx.
 ## Install
 
 ```bash
-npm i postcss-rem2rpx -S
+npm i postcss-rem2rpx -D
 ```
 
 ## Usage
